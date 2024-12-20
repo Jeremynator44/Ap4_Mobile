@@ -62,7 +62,7 @@ class _MyConnexionPageState extends State<MyConnexionPage> {
             const Padding(padding: EdgeInsets.fromLTRB(20, 0, 20, 35),
               child: Text("Connexion",
                 style: TextStyle(
-                  fontSize: 30,
+                  fontSize: 30, 
                 ),
               ),
             ),
