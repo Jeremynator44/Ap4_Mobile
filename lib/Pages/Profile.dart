@@ -20,6 +20,7 @@ class ProfilePage extends StatelessWidget {
                 Navigator.pop(context); // Retour à la page précédente
               },
               child: Text('Revenir à la Page Précédente'),
+
             ),
           ],
         ),
